@@ -6,15 +6,16 @@ title: About Me
 
 # About Me
 
-Hi! I'm **Samuel Purnama**. Outside of class, I'm usually *[doing your favorite thing]*.
+Hi! I'm **Samuel Purnama**, a CS student at UW. Outside of class, I'm usually *building something new* or *[your favorite thing to do]*.
 
 ![Illustration with the words Hobbies and Interests](images/hobbies.svg)
 
 ## My hobbies
 
-- **[Hobby 1]** – [how long you've done it, why you like it]
-- **[Hobby 2]** – [one sentence]
-- **[Hobby 3]** – [one sentence]
+- **Building side projects** – like *Bilby Notes*, a note editor with real-time sync and AI features built on a knowledge graph.
+- **Helping student builders** – through CSEED, I helped run programs where students launched their own tech projects.
+- **[Hobby 3]** – [one sentence about it]
+- **[Hobby 4]** – [one sentence about it]
 
 ## A few of my favorites
 
@@ -25,9 +26,13 @@ Hi! I'm **Samuel Purnama**. Outside of class, I'm usually *[doing your favorite 
 | Place | [City or spot] | [Short reason] |
 | Music | [Artist or genre] | [Short reason] |
 
+## Community
+
+I'm part of **PERMIAS Seattle**, a community of Indonesian students. I led a team that built the ordering and payment system for its *food festival*, which handled **500** people ordering at the same time.
+
 ## Family and home
 
-I grew up in *[hometown]*. My family **[something you'd like to share, e.g. loves cooking together]**.
+I grew up in *[hometown]*. My family **[something you'd like to share]**.
 
 ### Fun fact
 
