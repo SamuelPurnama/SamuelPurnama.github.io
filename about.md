@@ -6,25 +6,25 @@ title: About Me
 
 # About Me
 
-Hi! I'm **Samuel Purnama**, a CS student at UW. Outside of class, I'm usually *building something new* or *[your favorite thing to do]*.
+Hi! I'm **Samuel Purnama**, Computer Science student at the **University of Washington**, passionate about building technology that makes complex workflows simpler through automation and data-driven systems.
 
-![Illustration with the words Hobbies and Interests](images/hobbies.svg)
+I’m currently building **Po**, a wearable speech coaching app that listens to your conversations, understands you bad speaking habits and builds you a learning plan.
 
 ## My hobbies
 
-- **Building side projects** – like *Bilby Notes*, a note editor with real-time sync and AI features built on a knowledge graph.
+- **Building side projects** – like *Qualty, a QA testing tool for websites and *Bilby Notes*, a note editor with real-time sync and AI features built on a knowledge graph.
 - **Helping student builders** – through CSEED, I helped run programs where students launched their own tech projects.
-- **[Hobby 3]** – [one sentence about it]
-- **[Hobby 4]** – [one sentence about it]
+- Fishing
+- Food - both eating and cooking them!
 
 ## A few of my favorites
 
 | Category | Favorite | Why |
 |----------|----------|-----|
-| Food | [Your favorite food] | [Short reason] |
-| Book or show | [Title] | [Short reason] |
-| Place | [City or spot] | [Short reason] |
-| Music | [Artist or genre] | [Short reason] |
+| Food | Chipotle  | Cheap, delicious, doesn't kill you |
+| Book or show | Project Hail Mary | Relatable as a CS student + cute alien |
+| Place | U District | Close to a Chipotle |
+| Music | Rex orange county | Chill music, and tied deeply to my life in Indonesia |
 
 ## Community
 
@@ -32,11 +32,11 @@ I'm part of **PERMIAS Seattle**, a community of Indonesian students. I led a tea
 
 ## Family and home
 
-I grew up in *[hometown]*. My family **[something you'd like to share]**.
+I grew up in *Indonesia*. My family works in the construction business back in Indonesia.
 
 ### Fun fact
 
-[One fun fact about you.]
+I can cut men hair. 
 
 ## Learn more
 
