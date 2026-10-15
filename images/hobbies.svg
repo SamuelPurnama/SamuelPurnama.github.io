@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <rect width="800" height="200" fill="#fef3c7"/>
+  <circle cx="680" cy="100" r="60" fill="#f59e0b"/>
+  <circle cx="600" cy="60" r="28" fill="#fb923c"/>
+  <circle cx="610" cy="150" r="20" fill="#fbbf24"/>
+  <text x="40" y="100" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="bold" fill="#78350f">Hobbies &amp; Interests</text>
+  <text x="40" y="145" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#92400e">A little about life outside class</text>
+</svg>
