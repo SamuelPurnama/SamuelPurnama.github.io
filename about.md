@@ -36,7 +36,7 @@ I grew up in *Indonesia*. My family works in the construction business back in I
 
 ### Fun fact
 
-I can cut men hair. 
+I can cut hair. 
 
 ## Learn more
 
